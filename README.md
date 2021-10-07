@@ -5,5 +5,5 @@
 I used [Tkinter](https://docs.python.org/3/library/tkinter.html) python module for UI/ interface of the program. It have simple UI.
 
 ## Image
-![UI image]("./1.jpg")
-![UI image]("./2.jpg")
+![UI image](./1.jpg)
+![UI image](./2.jpg)
